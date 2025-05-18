@@ -1,58 +1,103 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi , I'm Najmul Islam Naeem</h1>
-<h3 align="center">A passionate Full-Stack web developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Najmul Islam Naeem</h1>
+<h3 align="center">💻 Full-Stack Developer | ASP.NET Core | C# | MSSQL | React | Next.js</h3>
 
-###
-
-<div align="center">
-<a href="https://linkedin.com/in/najmul-islam-naeem-5692a71b2" target="blank">  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
-  <a href="https://www.youtube.com/@ICTCareHome" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/najmul-islam-naeem/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-    <a href="https://www.youtube.com/@ICTCareHome" target="blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-
-
-<img align="right" alt="Codding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naeemcse&label=Profile%20views&color=0e75b6&style=flat" alt="naeemcse" /> </p>
-
-- 🔭 I’m currently working on **NextJs and MERN**
-
-- 🌱 I’m currently learning and using **NextJs, MERN**
-
-- 📝 I write articles on [Medium](https://medium.com/@csenajmulislamnaeem)
-
-- 💬 Ask me about **react,node,express,mongodb,mysql,nextjs**
-
-- 📫 How to reach me **csenajmulislamnaeem@gmil.com**
-  </br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/n_i_naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_i_naeem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/najmul-islam-naeem-5692a71b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="najmul-islam-naeem-5692a71b2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22885011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22885011" height="30" width="40" /></a>
-<a href="https://fb.com/naeem.cse.cou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naeem.cse.cou" height="30" width="40" /></a>
-<a href="https://medium.com/@csenajmulislamnaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@csenajmulislamnaeem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ictcarehome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ictcarehome" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/csenaeem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="csenaeem" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/csenaeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="csenaeem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naeemnajmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naeemnajmul" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@ICTCareHome" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:csenajmulislamnaeem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-csenajmulislamnaeem@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-  </br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-  
-  </br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeemcse&show_icons=true&locale=en" alt="naeemcse" /></p>
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeemcse&show_icons=true&locale=en&layout=compact" alt="naeemcse" /></p>
 
+---
+
+<img align="right" src="https://cdn.dribbble.com/users/1708955/screenshots/4168871/programmer.gif" width="350"/>
+
+### 👨‍🎓 About Me
+
+- 🎓 Final-year CSE student at **Comilla University**, CGPA: 3.60  
+- 🏆 **1st Place Winner** – NSTU Project Showcase 2024  
+- 📌 Passionate about crafting scalable and clean solutions using **ASP.NET Core MVC**, **Entity Framework**, and **MS SQL Server**
+- 💼 Recently worked as an **Intern at BrainStation**, building real-world ASP.NET projects with CI/CD, Docker, SignalR, Clean Architecture & more.
+- 🚀 Mentor & Instructor at **Development Bootcamp 2024**
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Backend
+- `ASP.NET Core`, `C#`, `Entity Framework Core`, `SQL Server`, `Node.js`, `Express.js`, `MongoDB`, `MySQL`
+
+#### 🖼 Frontend
+- `React.js`, `Next.js`, `Bootstrap`, `Tailwind CSS`, `JavaScript`, `AOS`, `SwiperJS`
+
+#### 🧠 Concepts
+- Clean Architecture, SOLID Principles, CQRS, Unit Testing, Design Patterns, Identity, CI/CD
+
+#### 🔧 Tools & Platforms
+- Git, GitHub, Docker, Azure, AWS, Firebase
+
+---
+
+### 🚀 Highlight Project: Easy Travel BD
+
+> A full-stack ASP.NET Core MVC platform to manage travel bookings: buses, hotels, photographers & more.
+
+🔗 [Live Website](https://easytravelbd.onrender.com/) | [GitHub Repo](https://github.com/Learnathon-By-Geeky-Solutions/dynamic-dev)
+
+✅ Features:
+- Role-based Authentication using **ASP.NET Identity**
+- Booking dashboard & admin panel
+- Service recommendations system
+- SwiperJS integration for better UI
+- Technologies: ASP.NET Core MVC, Entity Framework, MS SQL, JavaScript
+
+---
+
+### 📦 Other Projects
+
+- 🧠 **Markdown Guru** — All-in-one Markdown Converter ([Live](https://www.markdownguru.com/))
+- 🎮 **Ludo Game with AI** — C# Console App with turn logic & UI ([Repo](https://github.com/naeemcse/ludo-game-csharp))
+- 📊 **Codeforces Analyzer** — Analyze problem-solving patterns ([Live](https://cfanalyzer.vercel.app/))
+- 💬 **MERN Chat App** — Real-time chat using Socket.IO
+- 📸 **Video Sharing App** — React Native + Appwrite backend
+- 📍 **SkillMap** — 1st Place in NSTU Showcase ([Repo](https://github.com/naeemcse/skill-map))
+
+---
+
+### 📚 Courses & Certifications
+
+- ✅ **ASP.NET Core MVC Web Development** – DevSkill
+- ✅ **Professional Programming with C#** – DevSkill
+- ✅ **Reactive Accelerator (React, Next.js)** – Learn with Summit
+- ✅ **Full Stack Web Development (MERN)** – OSTAD
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naeemcse&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naeemcse&layout=compact" height="180"/>
+</p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/najmul-islam-naeem/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.youtube.com/@ICTCareHome" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://twitter.com/n_i_naeem" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="https://medium.com/@csenajmulislamnaeem" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+  <a href="https://codeforces.com/profile/csenaeem" target="_blank"><img src="https://img.icons8.com/windows/32/codeforces.png"/></a>
+  <a href="https://leetcode.com/naeemnajmul/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+</p>
