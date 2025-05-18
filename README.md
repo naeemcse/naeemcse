@@ -23,7 +23,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 Final-year CSE student at **Comilla University**, CGPA: 3.60  
+- 🎓 CSE Graduate student from **Comilla University** with CGPA: 3.60  
 - 🏆 **1st Place Winner** – NSTU Project Showcase 2024  
 - 📌 Passionate about crafting scalable and clean solutions using **ASP.NET Core MVC**, **Entity Framework**, and **MS SQL Server**
 - 💼 Recently worked as an **Intern at BrainStation**, building real-world ASP.NET projects with CI/CD, Docker, SignalR, Clean Architecture & more.
