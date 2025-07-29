@@ -22,14 +22,27 @@
 <img align="right" src="https://cdn.dribbble.com/users/1708955/screenshots/4168871/programmer.gif" width="350"/>
 
 ### 👨‍🎓 About Me
-
+- 💼 Currently working as a **Software Engineer I at Brain Station 23** (since July 2025), building enterprise-grade solutions using **ASP.NET Core**, **Entity Framework**, **MS SQL Server**, and **NopCommerce** plugins and themes  
 - 🎓 CSE Graduate student from **Comilla University** with CGPA: 3.60  
 - 🏆 **1st Place Winner** – NSTU Project Showcase 2024  
 - 📌 Passionate about crafting scalable and clean solutions using **ASP.NET Core MVC**, **Entity Framework**, and **MS SQL Server**
-- 💼 Recently worked as an **Intern at BrainStation**, building real-world ASP.NET projects with CI/CD, Docker, SignalR, Clean Architecture & more.
 - 🚀 Mentor & Instructor at **Development Bootcamp 2024**
-
 ---
+
+
+### 💼 Experience
+
+**Software Engineer I**  
+🧠 Brain Station 23 — *July 2025 – Present (Onsite)*  
+- Developing enterprise applications using **.NET**, **ASP.NET Core MVC**, and **Entity Framework**  
+- Creating custom **NopCommerce plugins and themes** under **NopStation**  
+- Working with **MS SQL Server**, **SignalR**, **Stored Procedures**, and **Clean Architecture**  
+- Practicing **OOP**, **Design Patterns**, **SOLID Principles**, **CI/CD**, **Docker**, **Unit Testing**  
+- Collaborating in a cross-functional team using **Git**, **GitHub**, and Agile practices
+ 
+**Participated at Learnathon**
+ 🧠 Sponsored by Brain Station 23 — *January 2025 – April,2025 (Onsite)*  
+ - Building real-world ASP.NET projects with CI/CD, Docker, SignalR, Clean Architecture & more under mentor.
 
 ### 🛠 Tech Stack
 
